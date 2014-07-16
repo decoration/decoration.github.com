@@ -4224,7 +4224,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 }
 
 .navbar-default .navbar-brand {
-	color: #777
+	color: #fff;
 }
 
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus
