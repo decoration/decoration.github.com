@@ -18,9 +18,8 @@ h1, h2, h3, h4 {
   color:#333;
 }
 #footer {
-  background-color: #ccc;
-  height: 200px;
-  color: #333;
+  padding:10px auto;
+  text-align:center;
   font-size:12px;
 }
 
