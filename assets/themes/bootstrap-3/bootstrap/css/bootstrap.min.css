@@ -3875,7 +3875,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 
 @media ( min-width :768px) {
 	.navbar {
-		border-radius: 4px
+		
 	}
 }
 
@@ -4220,8 +4220,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 }
 
 .navbar-default {
-	background-color: #f8f8f8;
-	border-color: #e7e7e7
+	
 }
 
 .navbar-default .navbar-brand {
