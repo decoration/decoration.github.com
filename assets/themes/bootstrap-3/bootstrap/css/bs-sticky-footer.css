@@ -20,7 +20,8 @@ body {
 /* Set the fixed height of the footer here */
 #footer {
   margin:30px 0;
-  border-top:1px solid #ccc;
+  background:#999;
+  color:#fff;
 }
 
 #footer p {
