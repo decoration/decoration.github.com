@@ -158,7 +158,7 @@
 }
 .navbar-default
 {
-    background: #cc0033;
+    background: #333;
 }
 .navbar-default .navbar-nav > .active > a
 {
@@ -166,7 +166,7 @@
 }
 .navbar-brand, .navbar-nav > li > a
 {
-    background: #cc0033;
+    background: #333;
     text-shadow: 0 1px 0 rgba(255,255,255,0.25);
 }
 .navbar-inverse
